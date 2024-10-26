@@ -1,4 +1,6 @@
 # Poem Generation
+
+## Introduction
 This project involves generating Vietnamese poems using a Transformer model trained from scratch on a curated poems dataset.
 
 ## Dataset
